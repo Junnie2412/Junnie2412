@@ -1,5 +1,9 @@
 <h2 align="center">HOJUDU</h2>
 
+<p align="center">
+  <img width="900" src="hojudu.gif" alt="gif" />
+</p>
+
 <table align="center">
   <tr>
     <td>
@@ -14,7 +18,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img width="900" src="hojudu.gif" alt="gif" />
-</p>
