@@ -1,6 +1,20 @@
+<h2 align="center">HOJUDU</h2>
 
-<h2 align="center"> HOJUDU </h2>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=junnie2412&show_icons=true&locale=en" alt="junnie2412" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junnie2412&show_icons=true&locale=en&layout=compact" alt="junnie2412" style="margin-right: 20px;" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img width="420"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junnie2412&amp;theme=github_dark"
+        alt="profile-details" />
+    </td>
+    <td>
+      <img width="420"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=junnie2412&amp;theme=github_dark"
+        alt="stats" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img width="900" src="hojudu.gif" alt="gif" />
+</p>
